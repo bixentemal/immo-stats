@@ -1,0 +1,6 @@
+pandas
+requests
+matplotlib
+pillow
+jupyter
+bokeh
